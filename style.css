@@ -76,7 +76,11 @@ figure img {
 article {
     margin: auto;
 }
-/* 
+
+.work {
+
+}
+
 .page-section {
     margin: 25px;
     padding: 10px;
@@ -105,4 +109,4 @@ article {
 
 h2 {
     border-right: 4px solid black;
-} */
+} 
